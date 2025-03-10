@@ -275,7 +275,7 @@ _Please be aware that these figures are estimates based on historical data. They
 
   
 
-7) 💰 Copy the bot’s contract and send some Ethereum to its balance for the bot to start. Team recommendation is to fund the bot with an minimum amount of 0.25 ETH but more than 1 ETH is recommended so the bot has enough gas and funds to swap, pay builders, etc.
+7) 💰 Copy the bot’s contract and send some Ethereum to its balance for the bot to start. Team recommendation is to fund the bot with a minimum amount of 0.25 ETH but more than 1 ETH is recommended so the bot has enough gas and funds to swap, pay builders, etc.
 
   
 
@@ -425,7 +425,7 @@ You can find the ROI according to latest data of bot performances in the "Estima
 
   
 
-Team recommendation is to fund the bot with an minimum amount of 0.25 ETH but more than 1 ETH is recommended so the bot has enough gas and funds to swap, pay builders, etc.
+Team recommendation is to fund the bot with a minimum amount of 0.25 ETH but more than 1 ETH is recommended so the bot has enough gas and funds to swap, pay builders, etc.
 
   
 
